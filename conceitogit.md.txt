@@ -1,0 +1,3 @@
+
+Git conceito
+Git é um conceito de sistema distribuido, que permite uma equipe trabalhar juntos na constução de um projeto.
